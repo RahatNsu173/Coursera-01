@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Coursera-01
 
 You can use the [editor on GitHub](https://github.com/RahatNsu173/Coursera-01/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
